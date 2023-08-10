@@ -12,7 +12,7 @@ class bkController extends Controller
     /**
      * Display a listing of the resource.
      */
-    //test
+    //test lmao
     public function list()
     {
         $books = books::get();
